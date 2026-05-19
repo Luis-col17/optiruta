@@ -1,5 +1,6 @@
-[
-    {"id_entrega": 1, "cliente": "Carlos Perez", "barrio": "El Salado", "direccion": "Cra 5 #12-45", "repartidor": "Juan Rojas", "vehiculo": "Moto", "tipo_paquete": "Electronica", "peso_kg": 2.5},
+
+module.exports = [
+        {"id_entrega": 1, "cliente": "Carlos Perez", "barrio": "El Salado", "direccion": "Cra 5 #12-45", "repartidor": "Juan Rojas", "vehiculo": "Moto", "tipo_paquete": "Electronica", "peso_kg": 2.5},
     {"id_entrega": 2, "cliente": "Ana Gomez", "barrio": "Jordan", "direccion": "Calle 42 #8-20", "repartidor": "Felipe Gomez", "vehiculo": "Van", "tipo_paquete": "Ropa", "peso_kg": 1.2},
     {"id_entrega": 3, "cliente": "Laura Martinez", "barrio": "Piedrapintada", "direccion": "Cra 10 #55-11", "repartidor": "Camilo Torres", "vehiculo": "Moto", "tipo_paquete": "Hogar", "peso_kg": 4.8},
     {"id_entrega": 4, "cliente": "Andres Lopez", "barrio": "Cadiz", "direccion": "Calle 30 #14-09", "repartidor": "Sebastian Ruiz", "vehiculo": "Bicicleta", "tipo_paquete": "Documentos", "peso_kg": 0.5},
@@ -99,4 +100,5 @@
     {"id_entrega": 98, "cliente": "Hugo Lora", "barrio": "El Salado", "direccion": "Cra 12 #55-09", "repartidor": "Juan Rojas", "vehiculo": "Van", "tipo_paquete": "Hogar", "peso_kg": 7.8},
     {"id_entrega": 99, "cliente": "Claudia Uribe", "barrio": "Piedrapintada", "direccion": "Calle 44 #7-22", "repartidor": "Felipe Gomez", "vehiculo": "Moto", "tipo_paquete": "Ropa", "peso_kg": 1.9},
     {"id_entrega": 100, "cliente": "Gabriel Parra", "barrio": "Topacio", "direccion": "Cra 6 #28-15", "repartidor": "Camilo Torres", "vehiculo": "Moto", "tipo_paquete": "Juguetes", "peso_kg": 4.1}
-]
+
+];
