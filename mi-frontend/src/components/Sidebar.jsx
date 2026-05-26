@@ -16,6 +16,8 @@ export default function Sidebar({
   return (
     <aside className="sidebar">
       <div className="sidebar-header">
+        <h1>OptiRuta</h1>
+        <p>Rutas optimizadas por vehiculo</p>
         <div style={{
           display: "flex",
           alignItems: "center",
