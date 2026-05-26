@@ -1,0 +1,329 @@
+
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="1000"
+      height="700"
+      viewBox="0 0 1000 700"
+    >
+      <rect width="100%" height="100%" fill="#f8fafc" />
+
+      <text
+        x="32"
+        y="42"
+        font-size="24"
+        font-family="Arial"
+        font-weight="700"
+        fill="#111827"
+      >
+        Grafo MST - Kruskal - Carro #4
+      </text>
+
+      <text
+        x="32"
+        y="66"
+        font-size="13"
+        font-family="Arial"
+        fill="#475569"
+      >
+        Nodos: 5 | Aristas MST: 4
+      </text>
+
+      
+        <line
+          x1="261.48046769104246"
+          y1="627.7787579864768"
+          x2="266.5861747807558"
+          y2="630"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="264.03332123589917"
+          y="623.8893789932383"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          83 m
+        </text>
+      
+        <line
+          x1="73.73315464062402"
+          y1="421.91060496698674"
+          x2="70"
+          y2="401.5751062635337"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="71.86657732031202"
+          y="406.7428556152602"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          289 m
+        </text>
+      
+        <line
+          x1="70"
+          y1="401.5751062635337"
+          x2="266.5861747807558"
+          y2="630"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="168.2930873903779"
+          y="510.7875531317668"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          2884 m
+        </text>
+      
+        <line
+          x1="266.5861747807558"
+          y1="630"
+          x2="930"
+          y2="70"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="598.2930873903779"
+          y="345"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          11260 m
+        </text>
+      
+      
+        <g>
+          <circle
+            cx="73.73315464062402"
+            cy="421.91060496698674"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="73.73315464062402"
+            y="425.91060496698674"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            1
+          </text>
+
+          <text
+            x="88.73315464062402"
+            y="413.91060496698674"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Luis Torres
+          </text>
+
+          <text
+            x="88.73315464062402"
+            y="428.91060496698674"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            La Pola
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="261.48046769104246"
+            cy="627.7787579864768"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="261.48046769104246"
+            y="631.7787579864768"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            2
+          </text>
+
+          <text
+            x="276.48046769104246"
+            y="619.7787579864768"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Elkin Patiño
+          </text>
+
+          <text
+            x="276.48046769104246"
+            y="634.7787579864768"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Cadiz
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="70"
+            cy="401.5751062635337"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="70"
+            y="405.5751062635337"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            3
+          </text>
+
+          <text
+            x="85"
+            y="393.5751062635337"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            German Niño
+          </text>
+
+          <text
+            x="85"
+            y="408.5751062635337"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            La Pola
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="266.5861747807558"
+            cy="630"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="266.5861747807558"
+            y="634"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            4
+          </text>
+
+          <text
+            x="281.5861747807558"
+            y="622"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Sergio Molina
+          </text>
+
+          <text
+            x="281.5861747807558"
+            y="637"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Cadiz
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="930"
+            cy="70"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="930"
+            y="74"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            5
+          </text>
+
+          <text
+            x="945"
+            y="62"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Hugo Lora
+          </text>
+
+          <text
+            x="945"
+            y="77"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            El Salado
+          </text>
+        </g>
+      
+    </svg>
+  

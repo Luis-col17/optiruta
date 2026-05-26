@@ -21,3 +21,13 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+package-lock.json
+package.json
+node_modules/
+.env
+.env.local
+*.log
+
+geocodificarbarrios.js
+dataset.js
