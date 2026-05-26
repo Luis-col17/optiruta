@@ -1,26 +1,24 @@
+// config/db.js
 const mysql = require('mysql2/promise');
-require('dotenv').config();
 
-// createPool: reutiliza conexiones automáticamente
 const pool = mysql.createPool({
-    host:     process.env.DB_HOST,
-    port:     process.env.DB_PORT,
-    user:     process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    database: process.env.DB_NAME,
-    connectionLimit: process.env.DB_POOL_LIMIT || 10,
+    host:             'localhost',
+    user:             'root',
+    password:         '',
+    database:         'optiruta',
+    port:             3306,
     waitForConnections: true,
+    connectionLimit:  10
 });
 
 // Verificar conexión al iniciar
 pool.getConnection()
     .then(conn => {
-    console.log('✅ MySQL conectado');
-    conn.release(); // devolver al pool
-})
-.catch(err => {
-    console.error('❌ Error MySQL:', err.message);
-    process.exit(1); // detener app si no hay DB
-});
+        console.log('✅ Conectado a MySQL — base de datos: optiruta');
+        conn.release();
+    })
+    .catch(err => {
+        console.error('❌ Error conectando a MySQL:', err.message);
+    });
 
 module.exports = pool;

@@ -1,0 +1,203 @@
+
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="1000"
+      height="700"
+      viewBox="0 0 1000 700"
+    >
+      <rect width="100%" height="100%" fill="#f8fafc" />
+
+      <text
+        x="32"
+        y="42"
+        font-size="24"
+        font-family="Arial"
+        font-weight="700"
+        fill="#111827"
+      >
+        Grafo MST - Kruskal - Moto #1
+      </text>
+
+      <text
+        x="32"
+        y="66"
+        font-size="13"
+        font-family="Arial"
+        fill="#475569"
+      >
+        Nodos: 3 | Aristas MST: 2
+      </text>
+
+      
+        <line
+          x1="869.4734242780524"
+          y1="104.36809166094827"
+          x2="930"
+          y2="70"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="899.7367121390262"
+          y="82.18404583047413"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          1464 m
+        </text>
+      
+        <line
+          x1="70"
+          y1="630"
+          x2="869.4734242780524"
+          y2="104.36809166094827"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="469.7367121390262"
+          y="362.18404583047413"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          10052 m
+        </text>
+      
+      
+        <g>
+          <circle
+            cx="70"
+            cy="630"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="70"
+            y="634"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            1
+          </text>
+
+          <text
+            x="85"
+            y="622"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Luis Alfredo Mora
+          </text>
+
+          <text
+            x="85"
+            y="637"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Boqueron
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="869.4734242780524"
+            cy="104.36809166094827"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="869.4734242780524"
+            y="108.36809166094827"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            2
+          </text>
+
+          <text
+            x="884.4734242780524"
+            y="96.36809166094827"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Jairo Enrique Ospina
+          </text>
+
+          <text
+            x="884.4734242780524"
+            y="111.36809166094827"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Jordan
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="930"
+            cy="70"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="930"
+            y="74"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            3
+          </text>
+
+          <text
+            x="945"
+            y="62"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Enrique Millan
+          </text>
+
+          <text
+            x="945"
+            y="77"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Jordan
+          </text>
+        </g>
+      
+    </svg>
+  

@@ -1,0 +1,518 @@
+
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="1000"
+      height="700"
+      viewBox="0 0 1000 700"
+    >
+      <rect width="100%" height="100%" fill="#f8fafc" />
+
+      <text
+        x="32"
+        y="42"
+        font-size="24"
+        font-family="Arial"
+        font-weight="700"
+        fill="#111827"
+      >
+        Grafo MST - Kruskal - Carro #5
+      </text>
+
+      <text
+        x="32"
+        y="66"
+        font-size="13"
+        font-family="Arial"
+        fill="#475569"
+      >
+        Nodos: 8 | Aristas MST: 7
+      </text>
+
+      
+        <line
+          x1="770.1713136386232"
+          y1="425.2668363334128"
+          x2="770.1713136386232"
+          y2="425.2668363334128"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="770.1713136386232"
+          y="420.2668363334128"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          0 m
+        </text>
+      
+        <line
+          x1="287.3520773028582"
+          y1="578.4532913054402"
+          x2="282.5811127191465"
+          y2="595.3832006005227"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="284.96659501100237"
+          y="581.9182459529815"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          141 m
+        </text>
+      
+        <line
+          x1="469.6984718201079"
+          y1="630"
+          x2="287.3520773028582"
+          y2="578.4532913054402"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="378.52527456148306"
+          y="599.2266456527201"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          2997 m
+        </text>
+      
+        <line
+          x1="70"
+          y1="340.1818584189963"
+          x2="282.5811127191465"
+          y2="595.3832006005227"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="176.29055635957326"
+          y="462.7825295097595"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          3150 m
+        </text>
+      
+        <line
+          x1="469.6984718201079"
+          y1="630"
+          x2="460.6946832963537"
+          y2="240.37259892159545"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="465.1965775582308"
+          y="430.1862994607977"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          4410 m
+        </text>
+      
+        <line
+          x1="469.6984718201079"
+          y1="630"
+          x2="770.1713136386232"
+          y2="425.2668363334128"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="619.9348927293656"
+          y="522.6334181667064"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          4946 m
+        </text>
+      
+        <line
+          x1="770.1713136386232"
+          y1="425.2668363334128"
+          x2="930"
+          y2="70"
+          stroke="#2563eb"
+          stroke-width="2.5"
+        />
+
+        <text
+          x="850.0856568193117"
+          y="242.6334181667064"
+          font-size="11"
+          font-family="Arial"
+          text-anchor="middle"
+          fill="#334155"
+        >
+          4987 m
+        </text>
+      
+      
+        <g>
+          <circle
+            cx="469.6984718201079"
+            cy="630"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="469.6984718201079"
+            y="634"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            1
+          </text>
+
+          <text
+            x="484.6984718201079"
+            y="622"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Sonia Beltran
+          </text>
+
+          <text
+            x="484.6984718201079"
+            y="637"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Varsovia
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="770.1713136386232"
+            cy="425.2668363334128"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="770.1713136386232"
+            y="429.2668363334128"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            2
+          </text>
+
+          <text
+            x="785.1713136386232"
+            y="417.2668363334128"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Diana Carolina Mora
+          </text>
+
+          <text
+            x="785.1713136386232"
+            y="432.2668363334128"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Topacio
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="460.6946832963537"
+            cy="240.37259892159545"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="460.6946832963537"
+            y="244.37259892159545"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            3
+          </text>
+
+          <text
+            x="475.6946832963537"
+            y="232.37259892159545"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Catalina Villalobos
+          </text>
+
+          <text
+            x="475.6946832963537"
+            y="247.37259892159545"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Ambala
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="287.3520773028582"
+            cy="578.4532913054402"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="287.3520773028582"
+            y="582.4532913054402"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            4
+          </text>
+
+          <text
+            x="302.3520773028582"
+            y="570.4532913054402"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Pablo Acero
+          </text>
+
+          <text
+            x="302.3520773028582"
+            y="585.4532913054402"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Cadiz
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="930"
+            cy="70"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="930"
+            y="74"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            5
+          </text>
+
+          <text
+            x="945"
+            y="62"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Dora Luz Quintero
+          </text>
+
+          <text
+            x="945"
+            y="77"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            El Salado
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="70"
+            cy="340.1818584189963"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="70"
+            y="344.1818584189963"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            6
+          </text>
+
+          <text
+            x="85"
+            y="332.1818584189963"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Alexander Prieto
+          </text>
+
+          <text
+            x="85"
+            y="347.1818584189963"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            La Pola
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="282.5811127191465"
+            cy="595.3832006005227"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="282.5811127191465"
+            y="599.3832006005227"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            7
+          </text>
+
+          <text
+            x="297.5811127191465"
+            y="587.3832006005227"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Tatiana Lopez
+          </text>
+
+          <text
+            x="297.5811127191465"
+            y="602.3832006005227"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Cadiz
+          </text>
+        </g>
+      
+        <g>
+          <circle
+            cx="770.1713136386232"
+            cy="425.2668363334128"
+            r="11"
+            fill="#f97316"
+            stroke="#111827"
+            stroke-width="2"
+          />
+
+          <text
+            x="770.1713136386232"
+            y="429.2668363334128"
+            font-size="10"
+            font-family="Arial"
+            font-weight="700"
+            text-anchor="middle"
+            fill="#ffffff"
+          >
+            8
+          </text>
+
+          <text
+            x="785.1713136386232"
+            y="417.2668363334128"
+            font-size="12"
+            font-family="Arial"
+            fill="#111827"
+          >
+            Carolina Suarez
+          </text>
+
+          <text
+            x="785.1713136386232"
+            y="432.2668363334128"
+            font-size="10"
+            font-family="Arial"
+            fill="#64748b"
+          >
+            Topacio
+          </text>
+        </g>
+      
+    </svg>
+  
